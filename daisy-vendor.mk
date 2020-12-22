@@ -26,6 +26,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/daisy/proprietary/lib/libDiracAPI_SHARED.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libDiracAPI_SHARED.so \
     vendor/xiaomi/daisy/proprietary/lib/libFileMux.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libFileMux.so \
     vendor/xiaomi/daisy/proprietary/lib/libOmxMux.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libOmxMux.so \
+    vendor/xiaomi/daisy/proprietary/lib/libwfdaudioclient.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libwfdaudioclient.so \
+    vendor/xiaomi/daisy/proprietary/lib/libwfdmediautils.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libwfdmediautils.so \
     vendor/xiaomi/daisy/proprietary/lib/libmmosal.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libmmosal.so \
     vendor/xiaomi/daisy/proprietary/lib/libmmparser_lite.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libmmparser_lite.so \
     vendor/xiaomi/daisy/proprietary/lib/libmmrtpdecoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libmmrtpdecoder.so \
